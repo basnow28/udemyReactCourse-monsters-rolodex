@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/udemyReactCourse-monsters-rolodex/static/css/main.bbca0162.chunk.css",
+    "main.js": "/udemyReactCourse-monsters-rolodex/static/js/main.1cca978f.chunk.js",
+    "main.js.map": "/udemyReactCourse-monsters-rolodex/static/js/main.1cca978f.chunk.js.map",
+    "runtime-main.js": "/udemyReactCourse-monsters-rolodex/static/js/runtime-main.536d3bfd.js",
+    "runtime-main.js.map": "/udemyReactCourse-monsters-rolodex/static/js/runtime-main.536d3bfd.js.map",
+    "static/js/2.7db90bec.chunk.js": "/udemyReactCourse-monsters-rolodex/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/udemyReactCourse-monsters-rolodex/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/udemyReactCourse-monsters-rolodex/index.html",
+    "precache-manifest.d52b17a91f07d1e5eb41589615e0acac.js": "/udemyReactCourse-monsters-rolodex/precache-manifest.d52b17a91f07d1e5eb41589615e0acac.js",
+    "service-worker.js": "/udemyReactCourse-monsters-rolodex/service-worker.js",
+    "static/css/main.bbca0162.chunk.css.map": "/udemyReactCourse-monsters-rolodex/static/css/main.bbca0162.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/udemyReactCourse-monsters-rolodex/static/js/2.7db90bec.chunk.js.LICENSE",
+    "static/media/logo.svg": "/udemyReactCourse-monsters-rolodex/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.536d3bfd.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.bbca0162.chunk.css",
+    "static/js/main.1cca978f.chunk.js"
+  ]
+}
